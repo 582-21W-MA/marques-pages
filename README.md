@@ -1,7 +1,7 @@
 # Marques-pages
 
-Énoncé : cours 3
-Remises : cours 5, 7, 9, 11, 13
+Énoncé : cours 3 \
+Remises : cours 5, 7, 9, 11, 13 \
 Pondération : 10% (5 × 2%)
 
 ## Description
